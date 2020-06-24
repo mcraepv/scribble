@@ -4,6 +4,8 @@ Scribble is a note-taking app that allows the user to write, save and delete the
 
 ## Live Site
 
+https://glacial-sierra-86256.herokuapp.com/
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -11,6 +13,8 @@ Scribble is a note-taking app that allows the user to write, save and delete the
 - [License](#license)
 
 - [Questions](#questions)
+
+- [Credits](#credits)
 
 ## Installation
 
@@ -37,3 +41,7 @@ https://github.com/mcraepv
 ### Email
 
 mcraepv@gmail.com
+
+## Credits
+
+This app uses and Bootstrap and jQuery for the front end and Express and Node for the backend.
